@@ -14,3 +14,5 @@ Creating a new branch is quick.
 >>>>>>> dev
 
 add merge
+
+fix bug 101
